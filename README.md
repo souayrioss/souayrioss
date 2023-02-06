@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souayrioss" alt="souayrioss" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/souayrioss" target="blank"><img src="https://img.shields.io/twitter/follow/elkadih_k?logo=twitter&style=for-the-badge" alt="souayrioss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/souayrioss" target="blank"><img src="https://img.shields.io/twitter/follow/souayri?logo=twitter&style=for-the-badge" alt="souayrioss" /></a> </p>
 
 - 🌱 I’m currently learning **react & laravel**
 
-- 📫 How to reach me **khalil94elkadih@gmail.com**
+- 📫 How to reach me **souayri.oussama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
